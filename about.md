@@ -8,17 +8,16 @@ sidebar_link: true
   Hey There! Welcome To The Hack-Teck world
 </h1>
 
-I have a keen interest in core Pentesting and Research, Always curious to learn new things especially about wifi and system hacking.
-looking forward to increasing my knowledge in Binary exploitation / Exploit Development. Captain of Teck_N00bs (Ctf team). If you are also curious to learn and to get regular updates for my blogs join my [Teck_N00bs community on telegram](https://t.me/Teck_N00bs)
+I have a keen interest in core Networking and Research, Always curious to learn new things especially about New Technology.
+looking forward to increasing my knowledge in Networking.  If you are also curious to learn and to get regular updates for my blogs join my [Teck_N00bs community on telegram](https://t.me/Teck_N00bs_Networking)
 <p class="message">
   Certifications
 </p>
-* CEH
-* OSCP
+* CCNA R&S
 
 ~ Hack the World and Stay Noob
 
-[Twitter](https://twitter.com/Teck__K2) / [Hack The Box](https://www.hackthebox.eu/profile/966) / [CTF Team](https://ctftime.org/team/20102) /
-[Teck_N00bs Community Telegram](https://t.me/Teck_N00bs)
+[Twitter](https://twitter.com/Net__Teck) / [Linkedin](https://www.linkedin.com/in/ymukesh) /[Acclaim](https://www.youracclaim.com/badges/46e9b499-43c4-4ee3-981a-e1e191de49a7/public_url) /
+[Teck_N00bs Community Telegram](https://t.me/Teck_N00bs_Networking)
 
-<script src="https://www.hackthebox.eu/badge/966"></script>
+
