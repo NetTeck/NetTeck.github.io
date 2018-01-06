@@ -7,7 +7,7 @@ highlighter:      rouge
 title:            NetTeck
 tagline:          'Netteck'
 #description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-description:      CISCO CERTIFIED(CCNA R&S)
+description:      The Hack-Teck world
 url:              https://NetTeck.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
