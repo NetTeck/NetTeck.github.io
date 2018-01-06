@@ -9,7 +9,7 @@ sidebar_link: true
 </h1>
 
 I have a keen interest in core Networking and Research, Always curious to learn new things especially about New Technology.
-looking forward to increasing my knowledge in Networking.  If you are also curious to learn and to get regular updates for my blogs join my [Teck_N00bs community on telegram](https://t.me/Teck_N00bs_Networking)
+Looking forward to increasing my knowledge in Networking.  If you are also curious to learn and to get regular updates for my blogs join my [Teck_N00bs community on telegram](https://t.me/Teck_N00bs_Networking)
 <p class="message">
   Certifications
 </p>
